@@ -76,13 +76,13 @@ The program uses the following main components:
 * Class Diet:
 Represents a diet with a name and a dictionary of food items and quantities (in grams).
 
-** add_food(food, quantity): Adds the specified quantity of a food to the diet.
+* add_food(food, quantity): Adds the specified quantity of a food to the diet.
 
-** modify_food(food, quantity): Removes a specified quantity of a food from the diet; if quantity reaches zero or below, the food is removed completely.
+* modify_food(food, quantity): Removes a specified quantity of a food from the diet; if quantity reaches zero or below, the food is removed completely.
 
-** list_foods(): Displays all foods and their quantities currently in the diet.
+* list_foods(): Displays all foods and their quantities currently in the diet.
 
-** total_emissions(emissions_data): Calculates the total carbon footprint of the diet using emission factors.
+* total_emissions(emissions_data): Calculates the total carbon footprint of the diet using emission factors.
 
 * Function load_food_data():
 Loads food emission data from the agribalyse.csv file, processes it, and returns a dictionary mapping food names to their carbon emission values (kg CO₂e per kg food).
