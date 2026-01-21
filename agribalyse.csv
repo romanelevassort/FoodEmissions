@@ -196,13 +196,13 @@ Soup for baby, with vegetables and potatoes;0,797
 Soup for baby, with vegetables, cereals and milk;0,86
 Pure alcohol;1,26
 Wine-based aperitif;1,31
-Beer, regular (4-5ø alcohol);1,35
+Beer, regular (4-5Ã¸ alcohol);1,35
 "Beer, ""specialty"", from abbey or regional (varying alcohol content)";1,35
-Beer, special (5-6ø alcohol);1,35
+Beer, special (5-6Ã¸ alcohol);1,35
 Beer, dark;1,35
-Beer, low alcohol-content (3ø alcohol);1,35
-Beer, strong (>8ø alcohol);1,35
-Beer, alcohol-free (<1,2ø alcohol);1,35
+Beer, low alcohol-content (3Ã¸ alcohol);1,35
+Beer, strong (>8Ã¸ alcohol);1,35
+Beer, alcohol-free (<1,2Ã¸ alcohol);1,35
 Champagne;2,23
 Flavoured cider;1,33
 Cider, half-dry;1,33
@@ -222,7 +222,7 @@ Champagne kir (Cocktail of champagne with red fruit liqueur);1,56
 Liqueur;1,59
 Marsala wine;1,22
 Shandy (beer + lemonade);1,23
-Shandy, prepacked (<1ø alcohol);1,23
+Shandy, prepacked (<1Ã¸ alcohol);1,23
 Pastis (anise-flavoured spirit);1,26
 Sparkling fruit wine;2,14
 Rum;1,26
@@ -433,7 +433,7 @@ Savoy-style fondue (cheese wine and bread);4,67
 Cheese and ham, breaded;6,03
 Small cheese chou-pastry puff;3,8
 Eggplant au gratin (oven grilled);1,94
-"Dauphin‚-style creamed potatoes ""au gratin""";2,01
+"DauphinÂ‚-style creamed potatoes ""au gratin""";2,01
 Cauliflower au gratin (oven grilled);1,91
 Vegetables au gratin (oven grilled);1,94
 Vegetables au gratin (oven grilled) in bechamel sauce;1,91
@@ -455,9 +455,9 @@ Mussels, filled (fat, parsley and garlic?);3,48
 Mussels, in a shallot and white wine broth;3,48
 Moussaka;23,6
 Stewed lamb garnished with potatoes and other vegetables;26,3
-Noodles with shrimps saut‚ed/pan-fried;4,89
+Noodles with shrimps sautÂ‚ed/pan-fried;4,89
 Osso buco;18,2
-Pa‰lla;3,28
+PaÂ‰lla;3,28
 Vegetable rosti, pre-fried, frozen;1,15
 Vegetable rosti, pre-fried, frozen, cooked;1,15
 Shepherd's pie with duck;3,6
@@ -509,7 +509,7 @@ White rice, cooked, with vegetables and meat;2,66
 White rice, cooked, with chicken;2,91
 Cantonese rice;3,1
 Salmon with sorrel;5,38
-Cheese souffl‚;3,53
+Cheese soufflÂ‚;3,53
 Sushi or maki with seafood products;2,67
 Mutton tagine;27,8
 Chicken tagine;4,74
@@ -548,12 +548,12 @@ Soybean and wheat-based nuggets (not vegan);1,92
 Schnitzel, soybean and wheat-based (not vegan);1,95
 Celeriac in remoulade sauce, prepacked;1,18
 Greek-style marinated mushrooms;4,04
-Caesar's salad (salad, chicken, cro–tons, sauce);3,94
+Caesar's salad (salad, chicken, croÂ–tons, sauce);3,94
 Prepared mixed meat/fish canned, drained salad;11,6
 Coleslaw, w sauce, prepacked;1,22
 Prepared pasta salad, with vegetable, meat or fish;4,27
 Prepared pasta salad, vegetarian;2,9
-Potato salad, pi‚montaise-style, prepacked;4,14
+Potato salad, piÂ‚montaise-style, prepacked;4,14
 Prepared potatoes salad, home-made;5,7
 Prepared rice salad;2,55
 Prepared mixed tuna and vegetable salad, canned, drained;4,52
@@ -581,7 +581,7 @@ Sandwich made with French bread, ham, emmental cheese and butter;5,54
 Sandwich made with French bread, hard-boiled egg, raw vegetables (tomato and lettuce) and butter;3,31
 Sandwich made with French bread, merguez sausage, ketchup and mustard;4,72
 Sandwich made with French bread, egg, raw vegetables (tomato and lettuce) and mayonnaise;2,41
-Sandwich made with French bread, pƒt‚ and pickles;3,46
+Sandwich made with French bread, pÂƒtÂ‚ and pickles;3,46
 Sandwich made with French bread, pork, raw vegetables (lettuce & tomato) and mayonnaise;3,31
 Sandwich made with French bread, chicken, raw vegetables (lettuce & tomato) and mayonnaise;3,82
 Sandwich made with French bread, salami and butter;5,61
@@ -597,7 +597,7 @@ Sandwich made with wholemeal loaf bread, chicken, raw vegetables and mayonnaise;
 Sandwich made with wholemeal loaf bread, tuna, raw vegetables and mayonnaise;2,7
 Sandwich made with loaf bread, various filling;2,57
 Sandwich made with panini bread, raw cured ham, mozzarella cheese and tomato;4,43
-Canap‚s (toasts w various toppings);1,76
+CanapÂ‚s (toasts w various toppings);1,76
 Wheat tortilla wrap, filled with soy-based, vegetarian;1,64
 Broth, stock or bouillon, beef, reconstituted with water at consumer;0,113
 Broth, stock or bouillon, vegetables, reconstituted with water at consumer;0,1
@@ -860,7 +860,7 @@ Cucumber, pulp and peel, raw;0,512
 Cucumber, pulp, raw;0,512
 Squash, butternut, pulp, raw;0,639
 Sweet green hokkaido squash, pulp, raw;0,612
-Squash, melonnette jasp‚e from Vend‚e, pulp, raw;0,639
+Squash, melonnette jaspÂ‚e from VendÂ‚e, pulp, raw;0,639
 Pumpkin (cucurbita moschata), pulp, raw;0,612
 Squash, spaghetti, pulp, raw;0,639
 Squash, spaghetti, pulp, cooked;1,51
@@ -1024,7 +1024,7 @@ Chick pea, cooked;0,603
 Chick pea, dried;0,899
 Plantain banana, cooked;1,36
 Potato crisps and related, reduced fat;1,4
-"Potato crisps, ""… l'ancienne"" (old-fashioned style)";1,4
+"Potato crisps, ""Â… l'ancienne"" (old-fashioned style)";1,4
 Potato crisps;1,4
 French fries or chips, frozen, deep-fried;1,46
 French fries or chips, frozen, raw, intended to be deep-fried;0,774
@@ -1050,7 +1050,7 @@ New potato, raw;0,707
 Early potato, boiled/cooked in water, peeled;1,15
 Potato, pre-fried into cubes, frozen, raw;0,895
 Potato, pre-fried into cubes, frozen, cooked;1,36
-Potato, saut‚ed/pan-fried, with goose fat;0,722
+Potato, sautÂ‚ed/pan-fried, with goose fat;0,722
 Potato, steamed, vacuum-packed;1,25
 Potato, boiled/cooked in water;1,25
 Potato flakes, dehydrated, with milk or cream;2,6
@@ -1061,7 +1061,7 @@ Potato puree, with milk and butter, unsalted;1,69
 Potato, roasted/baked;0,852
 Potato, peeled, raw;0,788
 Potato, peeled, baked;1,24
-Potato, saut‚ed/pan-fried;0,894
+Potato, sautÂ‚ed/pan-fried;0,894
 Rostis or Potatoes cake;0,977
 Tapioca, raw;0,74
 Taro, tuber, raw;0,69
@@ -1110,12 +1110,12 @@ Camembert cheese, from cow's milk, from raw milk;5,2
 Camembert cheese, from cow's milk;5,2
 Cantal cheese, half matured, from cow's milk;6
 Cantal, Salers or Laguiole cheese, from cow's milk;6,07
-Carr‚ de l'Est cheese, from cow's milk;4,94
+CarrÂ‚ de l'Est cheese, from cow's milk;4,94
 Chabichou cheese, from goat's milk;7,68
 Chaource cheese, from cow's milk;4,95
 Cheddar cheese, from cow's milk;6,65
 Chevrot cheese, from goat's milk;7,05
-Comt‚ cheese, from cow's milk;6,38
+ComtÂ‚ cheese, from cow's milk;6,38
 Coulommiers cheese, from cow's milk;5,43
 Crottin de Chavignol cheese, from goat's milk;7,68
 Crottin cheese, from goat's milk, from raw milk;8,78
@@ -1123,14 +1123,14 @@ Crottin cheese, from goat's milk;8,78
 Edam cheese, from cow's milk;6,35
 Emmental cheese, from cow's milk;6,28
 Emmental cheese, grated, from cow's milk;6,31
-poisses cheese, from cow's milk;5,01
+Âpoisses cheese, from cow's milk;5,01
 Feta cheese, from ewe's milk;6,37
 Fontina cheese, from cow's milk;5,4
 Fourme d'Ambert cheese, from cow's milk;5,35
 Fourme de Montbrison cheese;5,45
 Firm cheese, around 14% fat, Maasdam-type cheese, reduced fat;5,9
 Firm cheese, around 27% fat, Maasdam-type cheese;6,23
-Soft-ripened washed-rind cheese, from pasteurised milk (Vieux pan‚-type cheese);5,79
+Soft-ripened washed-rind cheese, from pasteurised milk (Vieux panÂ‚-type cheese);5,79
 Soft-ripened cheese, double cream, around 30% fat;5,68
 Soft-ripened cheese with bloomy rind (Camembert-type cheese);5,4
 Soft-ripened washed-rind cheese, reduced fat, around 13% fat;5,68
@@ -1145,7 +1145,7 @@ Causses blue cheese, from cow's milk;5,95
 Soft ripened cheese with bloomy rind, from ewe's milk, Camembert-type cheese;5,92
 Semi-hard cheese, from ewe's milk;5,58
 Corsica soft ripened cheese, from ewe's milk;9,02
-Pyr‚n‚es cheese, from ewe's milk;5,78
+PyrÂ‚nÂ‚es cheese, from ewe's milk;5,78
 Soft-ripened cheese with bloomy rind, from goat's milk, Camembert-type cheese;8,06
 Soft-ripened cheese, from goat's milk, from pasteurised milk;8,47
 Cheese, buche, from goat's milk;5,91
@@ -1185,12 +1185,12 @@ Vacherin cheese or Mont d'or cheese, from cow's milk;5,12
 Morbier cheese, from cow's milk;6,35
 Mozzarella cheese, from cow's milk;4,77
 Munster cheese, from cow's milk;5,18
-Neufchƒtel cheese, from cow's milk;4,78
+NeufchÂƒtel cheese, from cow's milk;4,78
 Ossau-Iraty cheese, from ewe's milk;5,78
 Parmesan cheese, from cow's milk;6,27
-P‚lardon cheese, from goat's milk;8,54
+PÂ‚lardon cheese, from goat's milk;8,54
 Picodon cheese, from goat's milk;7,91
-Pont l'Evˆque cheese, from cow's milk;5,35
+Pont l'EvÂˆque cheese, from cow's milk;5,35
 Pouligny Saint-Pierre cheese, from goat's milk;7,29
 Provolone cheese, from cow's milk;6
 Raclette cheese, from cow's milk;6,33
@@ -1219,7 +1219,7 @@ Tomme cheese (PDO) from the French Bauges munntains;5,84
 Tomme cheese, from mountain or Savoy;5,76
 Tomme cheese, from cow's milk;5,8
 Tomme cheese, reduced fat, around 13% fat;5,76
-Valen‡ay cheese, from goat's milk;7,44
+ValenÂ‡ay cheese, from goat's milk;7,44
 Condensed milk, without sugar, whole;2,53
 Condensed milk, with sugar, whole;2,53
 Sheep milk, whole;2,18
@@ -1243,7 +1243,7 @@ Dairy drink or fermented milk or yogurt, plain, with sugar, with L Casei;1,98
 Cheesecake, refrigerated;3,2
 Fruits batter-pudding, refrigerated;2,1
 Custard cream with eggs (a small jar of chocolate or vanilla cream or other flavour), refrigerated;3,88
-Caramelized custard cream (crŠme br–l‚e), refrigerated;2,18
+Caramelized custard cream (crÂŠme brÂ–lÂ‚e), refrigerated;2,18
 Custard cream with caramel sauce, refrigerated;1,9
 Custard dessert, vanilla, canned;1,83
 Custard dessert, vanilla, refrigerated;1,94
@@ -1549,7 +1549,7 @@ Savoy-style sponge cake;2,3
 Brownie (chocolate cake);8,36
 Christmas log cake;8,05
 Fruit cake;3,28
-Canel‚ cake;2,16
+CanelÂ‚ cake;2,16
 Fruit charlotte;2,09
 Pastry cream puff;2,58
 Chou pastry filled with whipped cream;2,58
@@ -1818,15 +1818,15 @@ Chicken, marinated wing, roasted/baked;7,8
 Veal, bread escalope, cooked;23,1
 Poultry nuggets;3,87
 Chitterling sausage;11,9
-Chitterling sausage from Gu‚m‚n‚;11,9
+Chitterling sausage from GuÂ‚mÂ‚nÂ‚;11,9
 Chitterling sausage from Vire;11,9
 Chitterling sausage, pan-reheated;11,9
 Chitterling sausage from Troyes, raw;11,8
 Chitterling sausage, raw;11,8
-Chitterling sausage, saut‚ed/pan-fried;11,9
+Chitterling sausage, sautÂ‚ed/pan-fried;11,9
 White pudding, truffled, raw;12,1
 Black pudding (blood sausage), refrigerated;2,11
-Black pudding (blood sausage), saut‚ed/pan-fried;2,11
+Black pudding (blood sausage), sautÂ‚ed/pan-fried;2,11
 Bresaola;13,6
 Duck breast fillet, smoked;16,1
 Saveloy or cervelat;7,16
@@ -1853,7 +1853,7 @@ Cooked pork shoulder, standard, rind less and fatless;7,65
 Bacon, back;8,36
 Block duck foie gras, pasteurized;24,7
 Whole duck foie gras, pasteurized;28,9
-Head-cheese pƒt‚ or brawn;5,51
+Head-cheese pÂƒtÂ‚ or brawn;5,51
 Poultry, minced meat;7,47
 Braised ham on the bone;9,66
 Cured ham, raw;13,6
@@ -1900,17 +1900,17 @@ Ox muzzle in salad dressing sauce;23,2
 Pork snout in salad dressing sauce;2,91
 Pork ear sat-cured;3,61
 Pancetta, dried;13,6
-Pƒt‚ w green pepper;4,82
-Breton pƒt‚;4,73
-Pork liver pƒt‚;2,81
-Pork liver pƒt‚, superior quality;2,82
-Poultry liver pƒt‚;2,4
-Goose liver pƒt‚;2,49
-Game pƒt‚;4,73
-Rabbit pƒt‚;5,63
-Pƒt‚ in crust;11,3
-Country-style pƒt‚ with mushrooms;4,08
-Country-style pƒt‚ or terrine;4,73
+PÂƒtÂ‚ w green pepper;4,82
+Breton pÂƒtÂ‚;4,73
+Pork liver pÂƒtÂ‚;2,81
+Pork liver pÂƒtÂ‚, superior quality;2,82
+Poultry liver pÂƒtÂ‚;2,4
+Goose liver pÂƒtÂ‚;2,49
+Game pÂƒtÂ‚;4,73
+Rabbit pÂƒtÂ‚;5,63
+PÂƒtÂ‚ in crust;11,3
+Country-style pÂƒtÂ‚ with mushrooms;4,08
+Country-style pÂƒtÂ‚ or terrine;4,73
 Pork trotters salt-cured;4,6
 Pork belly salt-cured;8,4
 Pork belly, smoked, raw;6,58
@@ -1936,7 +1936,7 @@ Salami;8,25
 Salami, pork and beef;8,34
 Salami, pure pork;8,25
 Salami, Danish-style;8,25
-Smoked Alsatian sausage or Landj„ger;5,37
+Smoked Alsatian sausage or LandjÂ„ger;5,37
 Cocktail sausage;12,3
 Beer sausage;5,54
 Liver sausage;11,8
@@ -2403,7 +2403,7 @@ Heart, beef, cooked;31,5
 Heart, turkey, cooked;2,14
 Heart, chicken, cooked;2,14
 Turkey, escalope, roasted/baked;7,48
-Turkey, escalope, saut‚ed/pan-fried, with salt;7,53
+Turkey, escalope, sautÂ‚ed/pan-fried, with salt;7,53
 Turkey, meat, roasted/baked;6,13
 Pheasant, meat, roasted/baked;7,75
 Liver, lamb, cooked;29,7
@@ -2440,12 +2440,12 @@ Chicken, breast, without skin, cooked;7,48
 Chicken, breast, meat and skin, roasted/baked;7,48
 Chicken, meat and skin, roasted/baked;6,13
 Sweetbread, lamb, cooked;37,2
-Sweetbread, calf, saut‚ed/pan-fried;38,9
+Sweetbread, calf, sautÂ‚ed/pan-fried;38,9
 Kidney, lamb, braised;29,7
 Kidney, beef, cooked;31,5
 Kidney, pork, cooked;3,91
-Kidney, veal, saut‚ed/pan-fried;31,1
-Veal, loin, saut‚ed/pan-fried;23,6
+Kidney, veal, sautÂ‚ed/pan-fried;31,1
+Veal, loin, sautÂ‚ed/pan-fried;23,6
 Veal, neck, braised or boiled;29,7
 Veal, chop, grilled/pan-fried;29,6
 Veal, shoulder, braised/boiled;23,7
